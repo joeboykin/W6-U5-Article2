@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] View elements are styled in the .xml files
+- [x] View elements are styled in the .xml files
 
 The following **additional** features are implemented:
 * [x] N/A
