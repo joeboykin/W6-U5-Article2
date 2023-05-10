@@ -25,12 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/joeboykin/W6_Article2_U5/blob/f8b848d3ab701e7684e8e9a3ea16014cf98b3564/W6_Article2_Walkthrough.gif'
-     title='ArticleSearch-2 Database Load Walkthrough' width='' alt='ArticleSearch-2 Database Loading Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with [Kap](https://getkap.co/) for macOS
-
+<img src='https://github.com/joeboykin/W6-U5-Article2/blob/7f7c59e2675a29b7290027c261f0ca215ffad819/Database%20Loading.gif' title='Article-2 U5 Loading Database' width='' alt='Article-2 U5 Database Load' />
 ## Notes
 - [x] Syntax challenges such as indentation and brackets.
 
