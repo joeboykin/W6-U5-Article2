@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/joeboykin/W6_Article2_U5/blob/f8b848d3ab701e7684e8e9a3ea16014cf98b3564/W6_Article2_Walkthrough.gif' title='ArticleSearch-2 Video Walkthrough' width='' alt='ArticleSearch-2 Video Walkthrough' />
+<img src='https://github.com/joeboykin/W6_Article2_U5/blob/f8b848d3ab701e7684e8e9a3ea16014cf98b3564/W6_Article2_Walkthrough.gif'
+     title='ArticleSearch-2 Database Load Walkthrough' width='' alt='ArticleSearch-2 Database Loading Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
