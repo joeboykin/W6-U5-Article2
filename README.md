@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 * [x] N/A
 	
 ## Video Walkthrough
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the database loading:
 
 <img src='https://github.com/joeboykin/W6-U5-Article2/blob/7f7c59e2675a29b7290027c261f0ca215ffad819/Database%20Loading.gif' title='Article-2 U5 Loading Database' width='' alt='Article-2 U5 Database Load' />
 ## Notes
